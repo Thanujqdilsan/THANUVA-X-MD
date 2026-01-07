@@ -1,0 +1,14 @@
+{
+  "name": "thanuva-x-md",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^6.7.0",
+    "axios": "^1.6.0",
+    "node-fetch": "^3.3.2",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
